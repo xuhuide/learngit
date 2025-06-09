@@ -846,6 +846,12 @@
         <mxCell id="YMLGGCe7Z9mUZ-Rutm09-7" value="GConv" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="70" y="185" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="YMLGGCe7Z9mUZ-Rutm09-12" value="Box" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="410" y="250" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YMLGGCe7Z9mUZ-Rutm09-13" value="Cls" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="410" y="330" width="40" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
